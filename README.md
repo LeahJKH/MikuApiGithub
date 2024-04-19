@@ -1,21 +1,22 @@
 # how too use the mikuvite
 
 ## First off
-if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution
+if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution <br>
 
-this was just made as a fun side project. and because i refuse too use the miku api XD
+this was just made as a fun side project. and because i refuse too use the miku api XD <br>
 
-i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe)
+i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe) <br>
 
 ## json file:
 # funfact:
-"https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json"
-do as you would an api
-its an array so remember index
-253 objects 
-251 indexes
-
-example:
+"https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json" <br>
+do as you would an api <br>
+its an array so remember index <br>
+253 objects <br>
+251 indexes <br>
+<br>
+Example:
+```ts
 const fetchData = async () => {
             try {
                 const response = await fetch(url);
@@ -24,10 +25,11 @@ const fetchData = async () => {
                 console.error("Error fetching data:", error);
             }
         };
+```
 # vocaloids
-
-"https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json"
+"https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json" <br>
 its set up as an array with objects
+```json
 [
     {
         "name": "",
@@ -37,21 +39,25 @@ its set up as an array with objects
         "image":"[currently not implimented fully. VOCALOID has images, and some VOCALOID2 (refer too list)]"
     }
 ]
-currently it has 21 diffrent vocaloids
-all of the original VOCALOID program
-currently doing VOCALOID2 
+```
+Currently it has 21 diffrent vocaloids <br>
+All of the original VOCALOID program <br>
+Currently doing VOCALOID2 <br>
 
 ## images:
 ### current working:
-"https://leahjkh.github.io/mikuviteInfo/images/[add the right folder here]/[add the code and index here].webp"
+
+"https://leahjkh.github.io/mikuviteInfo/images/(add_the_right_folder_here)/(add_the_code_and_index_here).webp"
 
 folders:
+```txt
 cosplay(file name c[index])  {
     current objects: {
         c1: 
         c2: 
     }
 }
+
 fullBg(file name fb[index]) {
     current objects: {
         fb1:
@@ -60,11 +66,13 @@ fullBg(file name fb[index]) {
         fb4:
     }
 }
+
 pfp(file name pfp[index]) {
     current objects: {
         pfp1:
     }
 }
+
 TransP(file name pfp[index]) {
     current objects: {
         tp1:
@@ -73,6 +81,7 @@ TransP(file name pfp[index]) {
         tp4:
     }
 }
+
 vocaloids(file name pfp[index]) {
     current objects: {
         vo1: Kaito v1
@@ -103,3 +112,4 @@ vocaloids(file name pfp[index]) {
         vo26: SONiKA V4 concept
     }
 }
+```
