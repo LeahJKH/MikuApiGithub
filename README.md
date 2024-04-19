@@ -1,4 +1,12 @@
 # how too use the mikuvite
+
+## First off
+if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution
+
+this was just made as a fun side project. and because i refuse too use the miku api XD
+
+i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe)
+
 ## json file:
 "https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json"
 do as you would an api
@@ -57,6 +65,11 @@ vocaloids(file name pfp[index]) {
         vo5:Miriam
         vo6:Leon
         vo7:Lola
+        vo8:Sweet ANN Standard
+        vo9:Sweet ANN taiwanese
+        vo10: Hatsune Miku v2
+        vo11: Hatsune Miku v3
+        vo12: Hatsune Miku v4
     }
 }
 

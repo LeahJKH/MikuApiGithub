@@ -1,10 +1,10 @@
 [
     {
-        "name": "Original Hatsune Miku",
+        "name": "V2 Hatsune Miku",
         "codename": "CV01",
         "introduction": "VOCALOID2",
-        "version": "Original",
-        "image": ""
+        "version": "V2",
+        "image": "https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo10.webp"
     },
     {
         "name": "Original Kagamine Rin",
@@ -42,11 +42,11 @@
         "image": ""
     },
     {
-        "name": "Original Kaito",
+        "name": "V1 Kaito",
         "codename": "TARO",
         "introduction": "VOCALOID",
         "version": "Original",
-        "image": ""
+        "image": "https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo1.webp"
     },
     {
         "name": "V2 Gumi/Megpoid",
@@ -60,6 +60,55 @@
         "codename": "HANAKO",
         "introduction": "VOCALOID",
         "version": "V1",
-        "image": ""
+        "image": "https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo3.webp"
+    },
+    {
+        "name": "Miriam",
+        "codename": "none",
+        "introduction": "VOCALOID",
+        "version": "V1",
+        "image": "https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo5.webp"
+    },
+    {
+        "name": "Leon",
+        "codename":"none",
+        "introduction":"VOCALOID",
+        "Version":"V1",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo6.webp"
+    },
+    {
+        "name": "Lola",
+        "codename":"none",
+        "introduction":"VOCALOID",
+        "Version":"V1",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo7.webp"
+    },
+    {
+        "name": "standard Sweet ANN",
+        "codename":"JODIE",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo8.webp"
+    },
+    {
+        "name": "Taiwanese Sweet ANN",
+        "codename":"JODIE",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Taiwanese",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo9.webp"
+    },
+    {
+        "name": "standard Prima",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo13.webp"
+    },
+    {
+        "name": "Taiwanese Prima",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Taiwanese",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo14.webp"
     }
 ]
