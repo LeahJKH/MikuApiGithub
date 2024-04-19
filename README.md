@@ -34,10 +34,10 @@ its set up as an array with objects
         "codename":"",
         "introduction":"",
         "Version":"",
-        "image":"[currently not implimented fully. VOCALOID has images]"
+        "image":"[currently not implimented fully. VOCALOID has images, and some VOCALOID2 (refer too list)]"
     }
 ]
-currently it has 16 diffrent vocaloids
+currently it has 21 diffrent vocaloids
 all of the original VOCALOID program
 currently doing VOCALOID2 
 
@@ -95,5 +95,11 @@ vocaloids(file name pfp[index]) {
         vo18: kagamine len act 1
         vo19: kagamine len act 2
         vo20: kagamine len append
+        vo21: Camui Gackpo V2
+        vo22: SONiKA Standard
+        vo23: SONiKA Debute
+        vo24: SONiKA Chinese
+        vo25: SONiKA Taiwanese
+        vo26: SONiKA V4 concept
     }
 }

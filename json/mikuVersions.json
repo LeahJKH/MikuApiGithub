@@ -110,5 +110,40 @@
         "introduction":"VOCALOID2",
         "Version":"V2 Taiwanese",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo14.webp"
+    },
+    {
+        "name": "Camui Gackpo",
+        "codename":"VA-G01",
+        "introduction":"VOCALOID2",
+        "Version":"V2",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo21.webp"
+    },
+    {
+        "name": "Standard SONiKA",
+        "codename":"ZGV5",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo22.webp"
+    },
+    {
+        "name": "Debute SONiKA",
+        "codename":"ZGV5",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Debute",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo23.webp"
+    },
+    {
+        "name": "Chinese SONiKA",
+        "codename":"ZGV5",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Chinese",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo24.webp"
+    },
+    {
+        "name": "Taiwanese SONiKA",
+        "codename":"ZGV5",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Taiwanese",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo25.webp"
     }
 ]
