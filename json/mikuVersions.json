@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Original Hatsune Miku",
+        "codename": "CV01",
+        "introduction": "VOCALOID2",
+        "version": "Original",
+        "image": ""
+    },
+    {
+        "name": "Original Kagamine Rin",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "Original",
+        "image": ""
+    },
+    {
+        "name": "Original Kagamine Len",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "Original",
+        "image": ""
+    },
+    {
+        "name": "Original Megurine Luka",
+        "codename": "CV03",
+        "introduction": "VOCALOID2",
+        "version": "Original",
+        "image": ""
+    },
+    {
+        "name": "VY1",
+        "codename": "MIZKI",
+        "introduction": "VOCALOID2",
+        "version": "prank version",
+        "image": ""
+    },
+    {
+        "name": "VY2",
+        "codename": "Yuuma",
+        "introduction": "VOCALOID2",
+        "version": "professional version",
+        "image": ""
+    },
+    {
+        "name": "Original Kaito",
+        "codename": "TARO",
+        "introduction": "VOCALOID",
+        "version": "Original",
+        "image": ""
+    },
+    {
+        "name": "V2 Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V2",
+        "image": ""
+    },
+    {
+        "name": "V1 Meiko",
+        "codename": "HANAKO",
+        "introduction": "VOCALOID",
+        "version": "V1",
+        "image": ""
+    }
+]

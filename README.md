@@ -15,7 +15,7 @@ const fetchData = async () => {
                 console.error("Error fetching data:", error);
             }
         };
-        
+
 ## images:
 ### current working:
 "https://leahjkh.github.io/mikuviteInfo/images/[add the right folder here].jpg"
@@ -40,3 +40,24 @@ pfp(file name pfp[index]) {
         pfp1:
     }
 }
+vocaloids(file name pfp[index]) {
+    current objects: {
+        vo1:Kaito v1
+        vo2:kaito v3
+        vo3:meiko v1
+        vo4:meiko v3
+    }
+}
+
+## Vocaloids
+"https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json"
+its set up as an array with objects
+[
+    {
+        "name": "",
+        "codename":"",
+        "introduction":"",
+        "Version":"",
+        "image":"[currently not implimented]"
+    }
+]
