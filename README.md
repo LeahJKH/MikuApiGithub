@@ -8,6 +8,7 @@ this was just made as a fun side project. and because i refuse too use the miku 
 i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe)
 
 ## json file:
+# funfact:
 "https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json"
 do as you would an api
 its an array so remember index
@@ -23,6 +24,22 @@ const fetchData = async () => {
                 console.error("Error fetching data:", error);
             }
         };
+# vocaloids
+
+"https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json"
+its set up as an array with objects
+[
+    {
+        "name": "",
+        "codename":"",
+        "introduction":"",
+        "Version":"",
+        "image":"[currently not implimented fully. VOCALOID has images]"
+    }
+]
+currently it has 16 diffrent vocaloids
+all of the original VOCALOID program
+currently doing VOCALOID2 
 
 ## images:
 ### current working:
@@ -72,16 +89,3 @@ vocaloids(file name pfp[index]) {
         vo12: Hatsune Miku v4
     }
 }
-
-## Vocaloids
-"https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json"
-its set up as an array with objects
-[
-    {
-        "name": "",
-        "codename":"",
-        "introduction":"",
-        "Version":"",
-        "image":"[currently not implimented fully. VOCALOID has images]"
-    }
-]
