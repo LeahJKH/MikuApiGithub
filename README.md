@@ -40,12 +40,23 @@ pfp(file name pfp[index]) {
         pfp1:
     }
 }
+TransP(file name pfp[index]) {
+    current objects: {
+        tp1:
+        tp2:
+        tp3:
+        tp4:
+    }
+}
 vocaloids(file name pfp[index]) {
     current objects: {
         vo1:Kaito v1
         vo2:kaito v3
         vo3:meiko v1
         vo4:meiko v3
+        vo5:Miriam
+        vo6:Leon
+        vo7:Lola
     }
 }
 
@@ -58,6 +69,6 @@ its set up as an array with objects
         "codename":"",
         "introduction":"",
         "Version":"",
-        "image":"[currently not implimented]"
+        "image":"[currently not implimented fully. VOCALOID has images]"
     }
 ]
