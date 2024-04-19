@@ -145,5 +145,68 @@
         "introduction":"VOCALOID2",
         "Version":"V2 Taiwanese",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo25.webp"
+    },
+    {
+        "name": "SF-A2 codename miki",
+        "codename":"miki",
+        "introduction":"VOCALOID2",
+        "Version":"V2",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo27.webp" 
+    },
+    {
+        "name": "kaai yuki",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo28.webp" 
+    },
+    {
+        "name": "Default Hiyama Kiyoteru",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Default",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo29.webp" 
+    },
+    {
+        "name": "ICE MOUNTAIN Hiyama Kiyoteru",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 ICE MOUNTAIN",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo30.webp" 
+    },
+    {
+        "name": "BIG AL",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 default",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo31.webp" 
+    },
+    {
+        "name": "Taiwanese BIG AL",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Taiwanese",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo32.webp" 
+    },
+    {
+        "name": "Debute BIG AL",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Debute",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo33.webp" 
+    },
+    {
+        "name": "Default Tonio",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Default",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo34.webp" 
+    },
+    {
+        "name": "Taiwanese Tonio",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Taiwanese",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo35.webp" 
     }
 ]

@@ -15,7 +15,7 @@ its an array so remember index <br>
 253 objects <br>
 251 indexes <br>
 <br>
-Example:
+Example in typescript:
 ```ts
 const fetchData = async () => {
             try {
@@ -40,7 +40,7 @@ its set up as an array with objects
     }
 ]
 ```
-Currently it has 21 diffrent vocaloids <br>
+Currently it has 29 diffrent vocaloids <br>
 All of the original VOCALOID program <br>
 Currently doing VOCALOID2 <br>
 
@@ -110,6 +110,15 @@ vocaloids(file name pfp[index]) {
         vo24: SONiKA Chinese
         vo25: SONiKA Taiwanese
         vo26: SONiKA V4 concept
+        vo27: SF-A2 codename miki
+        vo28: kaai yuki
+        vo29: Hiyama Kiyoteru Default
+        vo30: Hiyama Kiyoteru ICE MOUNTAIN 
+        vo31: BIG AL V2 Default
+        vo32: BIG AL V2 Taiwanese
+        vo33: BIG AL Debute
+        vo34: Tonio V2 Default
+        vo35: Tonio V2 Taiwanese
     }
 }
 ```
