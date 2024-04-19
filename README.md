@@ -75,17 +75,25 @@ TransP(file name pfp[index]) {
 }
 vocaloids(file name pfp[index]) {
     current objects: {
-        vo1:Kaito v1
-        vo2:kaito v3
-        vo3:meiko v1
-        vo4:meiko v3
-        vo5:Miriam
-        vo6:Leon
-        vo7:Lola
-        vo8:Sweet ANN Standard
-        vo9:Sweet ANN taiwanese
+        vo1: Kaito v1
+        vo2: kaito v3
+        vo3: meiko v1
+        vo4: meiko v3
+        vo5: Miriam
+        vo6: Leon
+        vo7: Lola
+        vo8: Sweet ANN Standard
+        vo9: Sweet ANN Taiwanese
         vo10: Hatsune Miku v2
         vo11: Hatsune Miku v3
         vo12: Hatsune Miku v4
+        vo13: Prima Standard
+        vo14: Prima Taiwanese
+        vo15: kagamine rin act 1
+        vo16: kagamine rin act 2
+        vo17: kagamine rin append
+        vo18: kagamine len act 1
+        vo19: kagamine len act 2
+        vo20: kagamine len append
     }
 }
