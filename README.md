@@ -18,13 +18,13 @@ const fetchData = async () => {
 
 ## images:
 ### current working:
-"https://leahjkh.github.io/mikuviteInfo/images/[add the right folder here].jpg"
+"https://leahjkh.github.io/mikuviteInfo/images/[add the right folder here]/[add the code and index here].webp"
 
 folders:
 cosplay(file name c[index])  {
     current objects: {
         c1: 
-        c2: webp file instead
+        c2: 
     }
 }
 fullBg(file name fb[index]) {
