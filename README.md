@@ -58,6 +58,8 @@ Currently doing VOCALOID2 <br>
 "https://leahjkh.github.io/mikuviteInfo/images/(add_the_right_folder_here)/(add_the_code_and_index_here).webp"
 
 folders:
+<details>
+    <summary>cosplay</summary>
 ```txt
 cosplay(file name c[index])  {
     current objects: {
@@ -65,7 +67,12 @@ cosplay(file name c[index])  {
         c2: 
     }
 }
+```
+</details>
 
+<details>
+    <summary>Full background</summary>
+```txt
 fullBg(file name fb[index]) {
     current objects: {
         fb1:
@@ -74,7 +81,12 @@ fullBg(file name fb[index]) {
         fb4:
     }
 }
+```
+</details>
 
+<details>
+    <summary>Profile pictures</summary>
+```txt
 pfp(file name pfp[index]) {
     current objects: {
         pfp1:
@@ -91,7 +103,11 @@ pfp(file name pfp[index]) {
         pfp12:
     }
 }
-
+```
+</details>
+<details>
+    <summary>Transparent Background</summary>
+```txt
 TransP(file name pfp[index]) {
     current objects: {
         tp1:
@@ -100,7 +116,11 @@ TransP(file name pfp[index]) {
         tp4:
     }
 }
-
+```
+</details>
+<details>
+    <summary>Vocaloids</summary>
+```txt
 vocaloids(file name pfp[index]) {
     current objects: {
         vo1: Kaito v1
@@ -141,3 +161,4 @@ vocaloids(file name pfp[index]) {
     }
 }
 ```
+</details>
