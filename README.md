@@ -9,6 +9,10 @@ i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe) <br>
 
 ## json file:
 # funfact:
+I have since learned of RAW usage so i will convert it but still keep the pages version for people intrested <br>
+"https://raw.githubusercontent.com/LeahJKH/mikuviteInfo/main/json/FunFactsMiku.json" <br>
+this is the raw link ^ 
+<br>
 "https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json" <br>
 do as you would an api <br>
 its an array so remember index <br>
@@ -27,6 +31,10 @@ const fetchData = async () => {
         };
 ```
 # vocaloids
+the raw for this:
+"https://github.com/LeahJKH/mikuviteInfo/blob/main/json/mikuVersions.json" 
+<br>
+<br>
 "https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json" <br>
 its set up as an array with objects
 ```json
