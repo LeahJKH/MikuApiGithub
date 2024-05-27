@@ -60,105 +60,97 @@ Currently doing VOCALOID2 <br>
 folders:
 <details>
     <summary>cosplay</summary>
-```txt
-cosplay(file name c[index])  {
-    current objects: {
-        c1: 
-        c2: 
-    }
+
+cosplay(file name c[index])  {<br>
+    current objects: {<br>
+        c1: <br>
+        c2: <br>
+    }<br>
 }
-```
 </details>
 
 <details>
     <summary>Full background</summary>
-```txt
-fullBg(file name fb[index]) {
-    current objects: {
-        fb1:
-        fb2:
-        fb3:
-        fb4:
-    }
+fullBg(file name fb[index]) {<br>
+    current objects: {<br>
+        fb1:<br>
+        fb2:<br>
+        fb3:<br>
+        fb4:<br>
+    }<br>
 }
-```
 </details>
 
 <details>
     <summary>Profile pictures</summary>
-```txt
-pfp(file name pfp[index]) {
-    current objects: {
-        pfp1:
-        pfp2:
-        pfp3:
-        pfp4:
-        pfp5:
-        pfp6:
-        pfp7:
-        pfp8:
-        pfp9:
-        pfp10:
-        pfp11:
-        pfp12:
-    }
+pfp(file name pfp[index]) {<br>
+    current objects: {<br>
+        pfp1:<br>
+        pfp2:<br>
+        pfp3:<br>
+        pfp4:<br>
+        pfp5:<br>
+        pfp6:<br>
+        pfp7:<br>
+        pfp8:<br>
+        pfp9:<br>
+        pfp10:<br>
+        pfp11:<br>
+        pfp12:<br>
+    }<br>
 }
-```
 </details>
 <details>
     <summary>Transparent Background</summary>
-```txt
-TransP(file name pfp[index]) {
-    current objects: {
-        tp1:
-        tp2:
-        tp3:
-        tp4:
-    }
+TransP(file name pfp[index]) {<br>
+    current objects: {<br>
+        tp1:<br>
+        tp2:<br>
+        tp3:<br>
+        tp4:<br>
+    }<br>
 }
-```
 </details>
 <details>
     <summary>Vocaloids</summary>
-```txt
-vocaloids(file name pfp[index]) {
-    current objects: {
-        vo1: Kaito v1
-        vo2: kaito v3
-        vo3: meiko v1
-        vo4: meiko v3
-        vo5: Miriam
-        vo6: Leon
-        vo7: Lola
-        vo8: Sweet ANN Standard
-        vo9: Sweet ANN Taiwanese
-        vo10: Hatsune Miku v2
-        vo11: Hatsune Miku v3
-        vo12: Hatsune Miku v4
-        vo13: Prima Standard
-        vo14: Prima Taiwanese
-        vo15: kagamine rin act 1
-        vo16: kagamine rin act 2
-        vo17: kagamine rin append
-        vo18: kagamine len act 1
-        vo19: kagamine len act 2
-        vo20: kagamine len append
-        vo21: Camui Gackpo V2
-        vo22: SONiKA Standard
-        vo23: SONiKA Debute
-        vo24: SONiKA Chinese
-        vo25: SONiKA Taiwanese
-        vo26: SONiKA V4 concept
-        vo27: SF-A2 codename miki
-        vo28: kaai yuki
-        vo29: Hiyama Kiyoteru Default
-        vo30: Hiyama Kiyoteru ICE MOUNTAIN 
-        vo31: BIG AL V2 Default
-        vo32: BIG AL V2 Taiwanese
-        vo33: BIG AL Debute
-        vo34: Tonio V2 Default
-        vo35: Tonio V2 Taiwanese
-    }
+vocaloids(file name pfp[index]) {<br>
+    current objects: {<br>
+        vo1: Kaito v1<br>
+        vo2: kaito v3<br>
+        vo3: meiko v1<br>
+        vo4: meiko v3<br>
+        vo5: Miriam<br>
+        vo6: Leon<br>
+        vo7: Lola<br>
+        vo8: Sweet ANN Standard<br>
+        vo9: Sweet ANN Taiwanese<br>
+        vo10: Hatsune Miku v2<br>
+        vo11: Hatsune Miku v3<br>
+        vo12: Hatsune Miku v4<br>
+        vo13: Prima Standard<br>
+        vo14: Prima Taiwanese<br>
+        vo15: kagamine rin act 1<br>
+        vo16: kagamine rin act 2<br>
+        vo17: kagamine rin append<br>
+        vo18: kagamine len act 1<br>
+        vo19: kagamine len act 2<br>
+        vo20: kagamine len append<br>
+        vo21: Camui Gackpo V2<br>
+        vo22: SONiKA Standard<br>
+        vo23: SONiKA Debute<br>
+        vo24: SONiKA Chinese<br>
+        vo25: SONiKA Taiwanese<br>
+        vo26: SONiKA V4 concept<br>
+        vo27: SF-A2 codename miki<br>
+        vo28: kaai yuki<br>
+        vo29: Hiyama Kiyoteru Default<br>
+        vo30: Hiyama Kiyoteru ICE MOUNTAIN <br>
+        vo31: BIG AL V2 Default<br>
+        vo32: BIG AL V2 Taiwanese<br>
+        vo33: BIG AL Debute<br>
+        vo34: Tonio V2 Default<br>
+        vo35: Tonio V2 Taiwanese<br>
+    }<br>
 }
-```
+
 </details>
