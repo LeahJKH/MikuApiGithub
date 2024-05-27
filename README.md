@@ -120,7 +120,7 @@ TransP(file name pfp[index]) {
 </details>
 <details>
     <summary>Vocaloids</summary>
-```txt
+```js
 vocaloids(file name pfp[index]) {
     current objects: {
         vo1: Kaito v1
