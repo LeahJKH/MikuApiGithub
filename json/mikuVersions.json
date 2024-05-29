@@ -264,5 +264,12 @@
         "introduction":"VOCALOID2",
         "Version":"V4 Soft",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo43.webp" 
+    },
+    {
+        "name": "Utatane Piko",
+        "codename":"KSRW-1",
+        "introduction":"VOCALOID2",
+        "Version":"V2 default",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo44.webp" 
     }
 ]

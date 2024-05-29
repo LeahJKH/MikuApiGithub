@@ -158,6 +158,7 @@ vocaloids(file name pfp[index]) {<br>
         vo41: Nekomura Iroha V2 Kittyler<br>
         vo42: Nekomura Iroha V4 Natural<br>
         vo43: Nekomura Iroha V4 Soft<br>
+        vo44: Utatane Piko V2 Default<br>
     }<br>
 }
 
