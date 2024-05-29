@@ -87,7 +87,7 @@
         "name": "standard Sweet ANN",
         "codename":"JODIE",
         "introduction":"VOCALOID2",
-        "Version":"V2 Standard",
+        "Version":"V2 standard",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo8.webp"
     },
     {
@@ -101,7 +101,7 @@
         "name": "standard Prima",
         "codename":"none",
         "introduction":"VOCALOID2",
-        "Version":"V2 Standard",
+        "Version":"V2 standard",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo13.webp"
     },
     {
@@ -122,7 +122,7 @@
         "name": "Standard SONiKA",
         "codename":"ZGV5",
         "introduction":"VOCALOID2",
-        "Version":"V2 Standard",
+        "Version":"V2 standard",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo22.webp"
     },
     {
@@ -208,5 +208,61 @@
         "introduction":"VOCALOID2",
         "Version":"V2 Taiwanese",
         "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo35.webp" 
+    },
+    {
+        "name": "lily",
+        "codename":"VA-L01",
+        "introduction":"VOCALOID2",
+        "Version":"V2 standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo36.webp" 
+    },
+    {
+        "name": "lily",
+        "codename":"VA-L01",
+        "introduction":"VOCALOID2",
+        "Version":"V3 standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo37.webp" 
+    },
+    {
+        "name": "Ryuto",
+        "codename":"VA-GP01",
+        "introduction":"VOCALOID2",
+        "Version":"V2 standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo38.webp" 
+    },
+    {
+        "name": "Ryuto",
+        "codename":"VA-GP01",
+        "introduction":"VOCALOID2",
+        "Version":"V3 standard",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo39.webp" 
+    },
+    {
+        "name": "Nekomura Iroha",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Default",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo40.webp" 
+    },
+    {
+        "name": "Nekomura Iroha",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V2 Kittyler",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo41.webp" 
+    },
+    {
+        "name": "Nekomura Iroha",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V4 Natural",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo42.webp" 
+    },
+    {
+        "name": "Nekomura Iroha",
+        "codename":"none",
+        "introduction":"VOCALOID2",
+        "Version":"V4 Soft",
+        "image":"https://leahjkh.github.io/mikuviteInfo/images/vocaloids/vo43.webp" 
     }
 ]
