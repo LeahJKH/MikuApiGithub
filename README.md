@@ -150,6 +150,14 @@ vocaloids(file name pfp[index]) {<br>
         vo33: BIG AL Debute<br>
         vo34: Tonio V2 Default<br>
         vo35: Tonio V2 Taiwanese<br>
+        vo36: lily V2 standard<br>
+        vo37: lily V3 standard<br>
+        vo38: Ryuto V2 standard<br>
+        vo39: Ryuto V3 standard<br>
+        vo40: Nekomura Iroha V2 Default<br>
+        vo41: Nekomura Iroha V2 Kittyler<br>
+        vo42: Nekomura Iroha V4 Natural<br>
+        vo43: Nekomura Iroha V4 Soft<br>
     }<br>
 }
 
