@@ -1,13 +1,19 @@
 
 .vocaloid-card {
-width: 250px;
+width: 350px;
 background-color: rgb(17, 17, 17);
+justify-content: space-between;
+margin-top: 10px;
 
 }
 .image-vocaloid {
-    height: 100px;
+    height: 225px;
+    width: 175px;
 }
 
 #vocaloid-cont {
     flex-wrap: wrap ;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
