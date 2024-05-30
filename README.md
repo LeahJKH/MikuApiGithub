@@ -10,10 +10,10 @@ i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe) <br>
 ## json file:
 # funfact:
 I have since learned of RAW usage so i will convert it but still keep the pages version for people intrested <br>
-"https://raw.githubusercontent.com/LeahJKH/mikuviteInfo/main/json/FunFactsMiku.json" <br>
+"https://raw.githubusercontent.com/LeahJKH/MikuApiGithub/main/json/FunFactsMiku.json" <br>
 this is the raw link ^ 
 <br>
-"https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json" <br>
+"https://leahjkh.github.io/MikuApiGithub/json/FunFactsMiku.json" <br>
 do as you would an api <br>
 its an array so remember index <br>
 253 objects <br>
@@ -32,10 +32,10 @@ const fetchData = async () => {
 ```
 # vocaloids
 the raw for this:
-"https://github.com/LeahJKH/mikuviteInfo/blob/main/json/mikuVersions.json" 
+"https://github.com/LeahJKH/MikuApiGithub/blob/main/json/mikuVersions.json" 
 <br>
 <br>
-"https://leahjkh.github.io/mikuviteInfo/json/mikuVersions.json" <br>
+"https://leahjkh.github.io/MikuApiGithub/json/mikuVersions.json" <br>
 its set up as an array with objects
 ```json
 [
@@ -49,13 +49,13 @@ its set up as an array with objects
 ]
 ```
 Currently it has 29 diffrent vocaloids <br>
-All of the original VOCALOID program <br>
-Currently doing VOCALOID2 <br>
+All of the original VOCALOID and VOCALOID 2 <br>
+Currently doing VOCALOID3 <br>
 
 ## images:
 ### current working:
 
-"https://leahjkh.github.io/mikuviteInfo/images/(add_the_right_folder_here)/(add_the_code_and_index_here).webp"
+"https://leahjkh.github.io/MikuApiGithub/images/(add_the_right_folder_here)/(add_the_code_and_index_here).webp"
 
 folders:
 <details>
