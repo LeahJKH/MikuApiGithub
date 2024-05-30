@@ -1,0 +1,13 @@
+
+.vocaloid-card {
+width: 250px;
+background-color: rgb(17, 17, 17);
+
+}
+.image-vocaloid {
+    height: 100px;
+}
+
+#vocaloid-cont {
+    flex-wrap: wrap ;
+}
