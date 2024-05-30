@@ -1,6 +1,6 @@
 [
     {
-        "name": "V2 Hatsune Miku",
+        "name": "Hatsune Miku",
         "codename": "CV01",
         "introduction": "VOCALOID2",
         "version": "V2",
@@ -21,11 +21,18 @@
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo18.webp"
     },
     {
-        "name": "Original Megurine Luka",
+        "name": "Megurine Luka",
         "codename": "CV03",
         "introduction": "VOCALOID2",
-        "version": "Original",
-        "image": ""
+        "version": "V2 default",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo45.webp"
+    },
+    {
+        "name": "Megurine Luka",
+        "codename": "CV03",
+        "introduction": "VOCALOID2",
+        "version": "V4X standard",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo46.webp"
     },
     {
         "name": "VY1",
