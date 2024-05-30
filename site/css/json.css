@@ -1,7 +1,8 @@
 
 .vocaloid-card {
 width: 350px;
-background-color: rgb(17, 17, 17);
+background-color: rgb(44, 44, 44);
+box-shadow: -1px -1px 2px black;
 justify-content: space-between;
 margin-top: 10px;
 
