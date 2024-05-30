@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(60, 60, 60);
+    color: rgb(238, 238, 238);
+}
+header {
+    width: 100%;
+    height: 57px;
+    background-color: rgb(130, 187, 187);
+}
+header > h1 {
+    margin: 0;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
