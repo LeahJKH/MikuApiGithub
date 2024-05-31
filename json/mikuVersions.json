@@ -161,7 +161,7 @@
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo21.webp"
     },
     {
-        "name": "Standard SONiKA",
+        "name": "standard SONiKA",
         "codename":"ZGV5",
         "introduction":"VOCALOID2",
         "version":"V2 standard",
@@ -203,10 +203,10 @@
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo28.webp" 
     },
     {
-        "name": "Default Hiyama Kiyoteru",
+        "name": "default Hiyama Kiyoteru",
         "codename":"none",
         "introduction":"VOCALOID2",
-        "version":"V2 Default",
+        "version":"V2 default",
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo29.webp" 
     },
     {
@@ -238,10 +238,10 @@
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo33.webp" 
     },
     {
-        "name": "Default Tonio",
+        "name": "default Tonio",
         "codename":"none",
         "introduction":"VOCALOID2",
-        "version":"V2 Default",
+        "version":"V2 default",
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo34.webp" 
     },
     {
@@ -283,7 +283,7 @@
         "name": "Nekomura Iroha",
         "codename":"none",
         "introduction":"VOCALOID2",
-        "version":"V2 Default",
+        "version":"V2 default",
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo40.webp" 
     },
     {

@@ -125,12 +125,12 @@ vocaloids(file name pfp[index]) {<br>
         vo5: Miriam<br>
         vo6: Leon<br>
         vo7: Lola<br>
-        vo8: Sweet ANN Standard<br>
+        vo8: Sweet ANN standard<br>
         vo9: Sweet ANN Taiwanese<br>
         vo10: Hatsune Miku v2<br>
         vo11: Hatsune Miku v3<br>
         vo12: Hatsune Miku v4<br>
-        vo13: Prima Standard<br>
+        vo13: Prima standard<br>
         vo14: Prima Taiwanese<br>
         vo15: kagamine rin act 1<br>
         vo16: kagamine rin act 2<br>
@@ -139,29 +139,34 @@ vocaloids(file name pfp[index]) {<br>
         vo19: kagamine len act 2<br>
         vo20: kagamine len append<br>
         vo21: Camui Gackpo V2<br>
-        vo22: SONiKA Standard<br>
+        vo22: SONiKA standard<br>
         vo23: SONiKA Debute<br>
         vo24: SONiKA Chinese<br>
         vo25: SONiKA Taiwanese<br>
         vo26: SONiKA V4 concept<br>
         vo27: SF-A2 codename miki<br>
         vo28: kaai yuki<br>
-        vo29: Hiyama Kiyoteru Default<br>
+        vo29: Hiyama Kiyoteru default<br>
         vo30: Hiyama Kiyoteru ICE MOUNTAIN <br>
-        vo31: BIG AL V2 Default<br>
+        vo31: BIG AL V2 default<br>
         vo32: BIG AL V2 Taiwanese<br>
         vo33: BIG AL Debute<br>
-        vo34: Tonio V2 Default<br>
+        vo34: Tonio V2 default<br>
         vo35: Tonio V2 Taiwanese<br>
         vo36: lily V2 standard<br>
         vo37: lily V3 standard<br>
         vo38: Ryuto V2 standard<br>
         vo39: Ryuto V3 standard<br>
-        vo40: Nekomura Iroha V2 Default<br>
+        vo40: Nekomura Iroha V2 default<br>
         vo41: Nekomura Iroha V2 Kittyler<br>
         vo42: Nekomura Iroha V4 Natural<br>
         vo43: Nekomura Iroha V4 Soft<br>
-        vo44: Utatane Piko V2 Default<br>
+        vo44: Utatane Piko V2 default<br>
+        vo45: Megurine Luka V2 default<br>
+        vo46: Megurine Luka V4X standard <br>
+        vo47: Hatsune Miku V2 append <br>
+        vo48: Hatsune Miku V3 standard <br>
+        vo49: Hatsune Miku V4 chinese<br>
     }<br>
 }
 
