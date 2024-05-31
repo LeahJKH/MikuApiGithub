@@ -3,6 +3,9 @@
 ## First off
 if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution <br>
 
+### !DISCLAIMER!
+all of this is thanks too Miku fans. i am myself a miku fan. thank you for supporting our queen and thanks too all the creators of the images and wikis! <3 <br>
+
 this was just made as a fun side project. and because i refuse too use the miku api XD <br>
 
 i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe) <br>
@@ -76,7 +79,6 @@ fullBg(file name fb[index]) {<br>
         fb1:<br>
         fb2:<br>
         fb3:<br>
-        fb4:<br>
     }<br>
 }
 </details>
@@ -108,6 +110,7 @@ TransP(file name pfp[index]) {<br>
         tp2:<br>
         tp3:<br>
         tp4:<br>
+        tp5:<br>
     }<br>
 }
 </details>
