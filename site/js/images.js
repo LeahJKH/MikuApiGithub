@@ -9,7 +9,7 @@ displayImages(cosplay, 2, "cosplay", "c")
 displayImages(fullbg, 3, "fullBg", "fb")
 displayImages(pfp, 12, "pfp", "pfp")
 displayImages(transP, 5, "TransP", "tp")
-displayImages(vocaloids, 46, "vocaloids", "vo")
+displayImages(vocaloids, 49, "vocaloids", "vo")
 
 
 function displayImages (container, number, folder, code) {
