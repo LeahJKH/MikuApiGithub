@@ -82,6 +82,17 @@ fullBg(file name fb[index]) {<br>
         fb4:<br>
         fb5:<br>
         fb6:<br>
+        fb7:<br>
+        fb8:<br>
+        fb9:<br>
+        fb10:<br>
+        fb11:<br>
+        fb12:<br>
+        fb13:<br>
+        fb14:<br>
+        fb15:<br>
+        fb16:<br>
+        fb17:<br>
     }<br>
 }
 </details>
