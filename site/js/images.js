@@ -11,13 +11,13 @@ displayImages(pfp, 12, "pfp", "pfp")
 displayImages(transP, 5, "TransP", "tp")
 displayImages(vocaloids, 49, "vocaloids", "vo")
 
-
 function displayImages (container, number, folder, code) {
-
-    for (let i = 1; i <= number; i++) {
-        const img = document.createElement("img")
-        img.classList.add("img-sizing")
-        img.src = `../../images/${folder}/${code}${i}.webp` 
-        container.appendChild(img)
-    }
+    
+        for (let i = 1; i <= number; i++) {
+            const img = document.createElement("img")
+            img.classList.add("img-sizing")
+            img.src = `../../images/${folder}/${code}${i}.webp` 
+            container.appendChild(img)
+        }
+    
 }
