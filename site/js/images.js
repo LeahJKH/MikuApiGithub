@@ -6,7 +6,7 @@ const fullbg = document.querySelector("#full-background-pics")
 
 
 displayImages(cosplay, 2, "cosplay", "c")
-displayImages(fullbg, 3, "fullBg", "fb")
+displayImages(fullbg, 6, "fullBg", "fb")
 displayImages(pfp, 12, "pfp", "pfp")
 displayImages(transP, 5, "TransP", "tp")
 displayImages(vocaloids, 49, "vocaloids", "vo")
