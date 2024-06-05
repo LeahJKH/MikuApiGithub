@@ -13,10 +13,10 @@ i will add more and more stuff like Vocaloid lists, fun facts, songs(maybe) <br>
 ## json file:
 # funfact:
 I have since learned of RAW usage so i will convert it but still keep the pages version for people intrested <br>
-"https://raw.githubusercontent.com/LeahJKH/MikuApiGithub/main/json/FunFactsMiku.json" <br>
+"https://raw.githubusercontent.com/LeahJKH/MikuApiGithub/main/json/mikuFacts.json" <br>
 this is the raw link ^ 
 <br>
-"https://leahjkh.github.io/MikuApiGithub/json/FunFactsMiku.json" <br>
+"https://leahjkh.github.io/MikuApiGithub/json/mikuFacts.json" <br>
 do as you would an api <br>
 its an array so remember index <br>
 253 objects <br>
@@ -33,6 +33,26 @@ const fetchData = async () => {
             }
         };
 ```
+
+# miku timeline
+
+"https://raw.githubusercontent.com/LeahJKH/MikuApiGithub/main/json/mikuTimeLine.json" <br>
+this is the raw link ^ 
+<br>
+"https://leahjkh.github.io/MikuApiGithub/json/MikuTimeLine.json" <br>
+github pages ^
+<br>
+do as you would an api <br>
+its an array object so remember index <br>
+```json
+[
+    {
+        "time": "",
+        "event":"",
+    }
+]
+```
+
 # vocaloids
 the raw for this:
 "https://github.com/LeahJKH/MikuApiGithub/blob/main/json/mikuVersions.json" 
