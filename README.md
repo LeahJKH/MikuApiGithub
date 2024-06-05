@@ -51,7 +51,7 @@ its set up as an array with objects
     }
 ]
 ```
-Currently it has 29 diffrent vocaloids <br>
+Currently it has 44 diffrent vocaloids <br>
 All of the original VOCALOID and VOCALOID 2 <br>
 Currently doing VOCALOID3 <br>
 
@@ -79,6 +79,9 @@ fullBg(file name fb[index]) {<br>
         fb1:<br>
         fb2:<br>
         fb3:<br>
+        fb4:<br>
+        fb5:<br>
+        fb6:<br>
     }<br>
 }
 </details>
