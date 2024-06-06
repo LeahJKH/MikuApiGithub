@@ -18,6 +18,26 @@ header > h1 {
     cursor: pointer;
     
 }
+a {
+    text-decoration: none;
+    color: rgb(35, 35, 35);
+}
+
+.main-btn-PS {
+    width: 175px;
+    font-size: 26px;
+    height: fit-content;
+    padding: 10px 5px;
+    background-color: rgb(125, 125, 206);
+    border: none;
+    border-radius: 20px;
+}
+.main-btn-PS:hover {
+    background-color: rgb(145, 145, 224);
+}
+a:hover{
+    color: rgb(29, 27, 27);
+}
 .header-txt-link {
     text-decoration: none;
     color: rgb(242, 240, 240);
