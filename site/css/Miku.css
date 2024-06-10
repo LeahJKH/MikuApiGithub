@@ -43,6 +43,21 @@ a:hover{
     color: rgb(242, 240, 240);
 }
 
+
+.main-sect-cont {
+ font-size: 26px;
+ width: 35%;
+ justify-self: center;
+ align-self: center;
+ border-bottom: 1px solid rgb(30, 30, 30);
+ padding: 20px;
+ border-radius: 6px;
+
+}
+
+
+
+
 .row {
     display: flex;
     flex-direction: row;
