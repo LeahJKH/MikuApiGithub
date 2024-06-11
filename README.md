@@ -88,6 +88,14 @@ cosplay(file name c[index])  {<br>
     current objects: {<br>
         c1: <br>
         c2: <br>
+        c3: <br>
+        c4: <br>
+        c5: <br>
+        c6: <br>
+        c7: <br>
+        c8: <br>
+        c9: <br>
+        c10: <br>
     }<br>
 }
 </details>

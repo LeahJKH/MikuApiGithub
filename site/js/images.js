@@ -4,7 +4,7 @@ const vocaloids = document.querySelector("#vocaloid-pics")
 const pfp = document.querySelector("#profile-pics")
 const fullbg = document.querySelector("#full-background-pics")
 
-displayImages(cosplay, 2, "cosplay", "c")
+displayImages(cosplay, 10, "cosplay", "c")
 displayImages(fullbg,17, "fullBg", "fb");
 displayImages(pfp, 12, "pfp", "pfp");
 displayImages(transP, 5, "TransP", "tp");
