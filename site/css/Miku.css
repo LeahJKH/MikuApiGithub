@@ -18,10 +18,7 @@ header > h1 {
     cursor: pointer;
     
 }
-a {
-    text-decoration: none;
-    color: rgb(35, 35, 35);
-}
+
 
 .main-btn-PS {
     width: 175px;
@@ -31,6 +28,7 @@ a {
     background-color: rgb(125, 125, 206);
     border: none;
     border-radius: 20px;
+    cursor: pointer;
 }
 .main-btn-PS:hover {
     background-color: rgb(145, 145, 224);
