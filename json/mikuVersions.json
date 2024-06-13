@@ -112,18 +112,88 @@
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo1.webp"
     },
     {
-        "name": "V2 Gumi/Megpoid",
+        "name": "Gumi/Megpoid",
         "codename": "VA-M01",
         "introduction": "VOCALOID2",
         "version": "V2",
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo55.webp"
     },
     {
-        "name": "V2 Gumi/Megpoid",
+        "name": "Gumi/Megpoid",
         "codename": "VA-M01",
         "introduction": "VOCALOID2",
         "version": "V3 sweet and power",
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo56.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V3 Adult",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo57.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V3 Whisper",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo58.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V3 english",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo59.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V4 Native",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo60.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V4 Adult",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo61.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V4 Power",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo62.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V4 Sweet",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo63.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V4 Whisper",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo64.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V6 Normal",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo65.webp"
+    },
+    {
+        "name": "Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V4 Solid",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo66.webp"
     },
     {
         "name": "V1 Meiko",
