@@ -73,15 +73,36 @@
         "name": "VY1",
         "codename": "MIZKI",
         "introduction": "VOCALOID2",
-        "version": "prank version",
-        "image": ""
+        "version": "V2",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo52.webp"
+    },
+    {
+        "name": "VY1",
+        "codename": "MIZKI",
+        "introduction": "VOCALOID2",
+        "version": "V3",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo53.webp"
+    },
+    {
+        "name": "VY1",
+        "codename": "MIZKI",
+        "introduction": "VOCALOID2",
+        "version": "V4/V5",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo54.webp"
     },
     {
         "name": "VY2",
         "codename": "Yuuma",
         "introduction": "VOCALOID2",
-        "version": "professional version",
-        "image": ""
+        "version": "V2",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo50.webp"
+    },
+    {
+        "name": "VY2",
+        "codename": "Yuuma",
+        "introduction": "VOCALOID2",
+        "version": "V3/V5",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo51.webp"
     },
     {
         "name": "V1 Kaito",
@@ -95,7 +116,14 @@
         "codename": "VA-M01",
         "introduction": "VOCALOID2",
         "version": "V2",
-        "image": ""
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo55.webp"
+    },
+    {
+        "name": "V2 Gumi/Megpoid",
+        "codename": "VA-M01",
+        "introduction": "VOCALOID2",
+        "version": "V3 sweet and power",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo56.webp"
     },
     {
         "name": "V1 Meiko",
