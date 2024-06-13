@@ -71,7 +71,7 @@ its set up as an array with objects
     }
 ]
 ```
-Currently it has 44 diffrent vocaloids <br>
+Currently it has 56 diffrent vocaloids <br>
 All of the original VOCALOID and VOCALOID 2 <br>
 Currently doing VOCALOID3 <br>
 
@@ -209,6 +209,23 @@ vocaloids(file name pfp[index]) {<br>
         vo47: Hatsune Miku V2 append <br>
         vo48: Hatsune Miku V3 standard <br>
         vo49: Hatsune Miku V4 chinese<br>
+        vo50: VY2 V2<br>
+        vo51: VY2 V3 & V5<br>
+        vo52: VY1 V2<br>
+        vo53: VY1 V3<br>
+        vo54: VY1 V4 & V5<br>
+        vo55: Gumi/Megpoid V2 <br>
+        vo56: Gumi/Megpoid V3 sweet and power <br>
+        vo57: Gumi/Megpoid V3 Adult<br>
+        vo58: Gumi/Megpoid V3 Whisper<br>
+        vo59: Gumi/Megpoid V3 English<br>
+        vo60: Gumi/Megpoid V4 Native <br>
+        vo61: Gumi/Megpoid V4 Adult<br>
+        vo62: Gumi/Megpoid V4 Power<br>
+        vo63: Gumi/Megpoid V4 Sweet<br>
+        vo64: Gumi/Megpoid V4 Whisper<br>
+        vo65: Gumi/Megpoid Normal<br>
+        vo66: Gumi/Megpoid Solid<br>
     }<br>
 }
 
