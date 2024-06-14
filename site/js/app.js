@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", (e) => {
     const jsonBtn = document.querySelector("#jsonIdentifier")
     
     imgBtn.addEventListener("click", (e) => {
-        location.href = "/site/pages/images.html"
+        location.href = "./site/pages/images.html"
     })
     jsonBtn.addEventListener("click", (e) => {
-        location.href = "/site/pages/json.html"
+        location.href = "./site/pages/json.html"
     })
 })
