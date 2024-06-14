@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", (e) => {
     const jsonBtn = document.querySelector("#jsonIdentifier")
     
     imgBtn.addEventListener("click", (e) => {
-        location.href = "MikuApiGithub/site/pages/images.html"
+        location.href = "/MikuApiGithub/site/pages/images.html"
     })
     jsonBtn.addEventListener("click", (e) => {
-        location.href = "MikuApiGithub/site/pages/json.html"
+        location.href = "/MikuApiGithub/site/pages/json.html"
     })
 })
