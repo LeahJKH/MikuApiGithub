@@ -226,6 +226,8 @@ vocaloids(file name pfp[index]) {<br>
         vo64: Gumi/Megpoid V4 Whisper<br>
         vo65: Gumi/Megpoid Normal<br>
         vo66: Gumi/Megpoid Solid<br>
+        vo67: kagamine len V4X standard <br>
+        vo68: kagamine rin V4X standard
     }<br>
 }
 

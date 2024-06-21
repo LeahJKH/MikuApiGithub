@@ -42,18 +42,60 @@
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo49.webp"
     },
     {
-        "name": "Act 1 Kagamine Rin",
+        "name": "Kagamine Rin",
         "codename": "CV02",
         "introduction": "VOCALOID2",
-        "version": "Original",
+        "version": "V2 act 1",
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo15.webp"
     },
     {
-        "name": "Act 1 Kagamine Len",
+        "name": "Kagamine Rin",
         "codename": "CV02",
         "introduction": "VOCALOID2",
-        "version": "Original",
+        "version": "V2 act 2",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo16.webp"
+    },
+    {
+        "name": "Kagamine Rin",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "V2 append",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo17.webp"
+    },
+    {
+        "name": "Kagamine Rin",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "V4X standard",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo68.webp"
+    },
+    {
+        "name": "Kagamine Len",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "V2 act 1",
         "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo18.webp"
+    },
+    {
+        "name": "Kagamine Len",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "V2 act 2",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo19.webp"
+    },
+    {
+        "name": "Kagamine Len",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "V2 append",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo20.webp"
+    },
+    {
+        "name": "Kagamine Len",
+        "codename": "CV02",
+        "introduction": "VOCALOID2",
+        "version": "V4X standard",
+        "image": "https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo67.webp"
     },
     {
         "name": "Megurine Luka",
