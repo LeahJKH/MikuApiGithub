@@ -71,7 +71,7 @@ its set up as an array with objects
     }
 ]
 ```
-Currently it has 56 diffrent vocaloids <br>
+Currently it has 64 diffrent vocaloids <br>
 All of the original VOCALOID and VOCALOID 2 <br>
 Currently doing VOCALOID3 <br>
 
