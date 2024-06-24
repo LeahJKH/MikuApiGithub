@@ -7,7 +7,7 @@ const fullbg = document.querySelector("#full-background-pics")
 displayImages(cosplay, 10, "cosplay", "c")
 displayImages(fullbg,17, "fullBg", "fb");
 displayImages(pfp, 12, "pfp", "pfp");
-displayImages(transP, 5, "TransP", "tp");
+displayImages(transP, 16, "TransP", "tp");
 displayImages(vocaloids, 66, "vocaloids", "vo");
 
 function displayImages (container, number, folder, code) {
