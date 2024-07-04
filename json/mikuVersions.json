@@ -516,5 +516,33 @@
         "introduction":"VOCALOID3",
         "version":"V3 standard",
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo76.webp" 
+    },
+    {
+        "name": "yuzuki yukari",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V3",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo77.webp" 
+    },
+    {
+        "name": "yuzuki yukari",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V4 JUN",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo78.webp" 
+    },
+    {
+        "name": "yuzuki yukari",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V4 ONN",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo79.webp" 
+    },
+    {
+        "name": "yuzuki yukari",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V4 LIN",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo80.webp" 
     }
 ]
