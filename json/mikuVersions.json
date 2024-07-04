@@ -453,5 +453,68 @@
         "introduction":"VOCALOID2",
         "version":"V2 default",
         "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo44.webp" 
+    },
+    {
+        "name": "Mew",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V3",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo69.webp" 
+    },
+    {
+        "name": "SeeU",
+        "codename":"SV01",
+        "introduction":"VOCALOID3",
+        "version":"V3 orginal",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo70.webp" 
+    },
+    {
+        "name": "SeeU",
+        "codename":"SV01",
+        "introduction":"VOCALOID3",
+        "version":"400 Renewal edition",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo71.webp" 
+    },
+    {
+        "name": "SeeU",
+        "codename":"SV01",
+        "introduction":"VOCALOID3",
+        "version":"400 Renewal edition",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo71.webp" 
+    },
+    {
+        "name": "Tone Rion",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V3",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo72.webp" 
+    },
+    {
+        "name": "Tone Rion",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V4 standard",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo73.webp" 
+    },
+    {
+        "name": "Oliver",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V3 standard",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo74.webp" 
+    },
+    {
+        "name": "Cul",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"Debute",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo75.webp" 
+    },
+    {
+        "name": "Cul",
+        "codename":"none",
+        "introduction":"VOCALOID3",
+        "version":"V3 standard",
+        "image":"https://leahjkh.github.io/MikuApiGithub/images/vocaloids/vo76.webp" 
     }
 ]
