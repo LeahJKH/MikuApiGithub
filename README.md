@@ -227,7 +227,19 @@ vocaloids(file name pfp[index]) {<br>
         vo65: Gumi/Megpoid Normal<br>
         vo66: Gumi/Megpoid Solid<br>
         vo67: kagamine len V4X standard <br>
-        vo68: kagamine rin V4X standard
+        vo68: kagamine rin V4X standard <br>
+        vo69: Mew V3 <br>
+        vo70: SeeU V3 orginal<br>
+        vo71: SeeU 400 Renewal edition<br>
+        vo72: Tone Rion V3 <br>
+        vo73: Tone Rion V4 standard <br>
+        vo74: Oliver V3 standard <br>
+        vo75: Cul Debute <br>
+        vo76: Cul V3 standard <br>
+        vo77: yuzuki yukari V3<br>
+        vo78: yuzuki yukari V4 JUN <br>
+        vo79: yuzuki yukari V4 ONN <br>
+        vo80: yuzuki yukari V4 LIN <br>
     }<br>
 }
 
