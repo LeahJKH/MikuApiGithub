@@ -8,7 +8,7 @@ displayImages(cosplay, 10, "cosplay", "c")
 displayImages(fullbg,17, "fullBg", "fb");
 displayImages(pfp, 12, "pfp", "pfp");
 displayImages(transP, 16, "TransP", "tp");
-displayImages(vocaloids, 66, "vocaloids", "vo");
+displayImages(vocaloids, 80, "vocaloids", "vo");
 
 function displayImages (container, number, folder, code) {
     
